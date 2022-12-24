@@ -54,7 +54,7 @@
 
 <div align='center'>
 
-<a href="https://linkedin.com/in/faisal-balotibi" target="_blank">
+<a href="https://linkedin.com/in/faisal-b-balotibi" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  faisal b alotibi-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 
@@ -86,4 +86,4 @@
 <br>
 <br>
 
-Last Edited on: 23/11/2022
+Last Edited on: 24/12/2022
