@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm FAISAL B ALOTIBI</h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Passionate+developer+and+DevOps+Engineer.;I+Love+to+learn+new+stuffs+..+%E2%9D%A4;Now+I+am+learning+AI+%F0%9F%A7%A0" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Passionate+developer+and+DevOps+Engineer.;I+Love+to+learn+new+stuffs" alt="Typing SVG" /></a>
 </p>
 
 <br>
