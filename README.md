@@ -16,8 +16,6 @@
 
  I’m currently playground with **Python 🐍**
 
- I’m currently learning **AI 🧠**
-
  Ask me about **Python 🐍, DevOps 👨‍💻**
 
 <br><br>
